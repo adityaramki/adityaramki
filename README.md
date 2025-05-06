@@ -8,7 +8,6 @@ I am a freshman studying computer science at Michigan State University. Please d
 - Working in a team to develop a full stack Calorie Counter application
 
 ## Connect With Me  🤝  
-<a href="https://www.linkedin.com/in/aditya-ramakrishnan-8a3354325/">
-  <img align="left" width="32px" src="https://cdn.simpleicons.org/linkedin"  />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ramakrishnan-8a3354325/)
+
 
