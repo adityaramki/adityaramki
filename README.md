@@ -3,9 +3,9 @@
 I am a sophomore studying computer science at Michigan State University. Please do check out my [coding portfolio](https://adityaramki.netlify.app/) and fill out the contact form for any collaboration inquiries!
 
 ## Current Endeavours  💻  
-- Interning at Humana as an Enterprise AI Intern
+- Interning at Humana as a Software Engineer Intern in Enterprise AI
 - Optimizing my portfolio website for different screens
-- Looking into RAG
+
 
 
 ## Connect With Me  🤝  
