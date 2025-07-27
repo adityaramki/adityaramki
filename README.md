@@ -1,6 +1,6 @@
 # Hello! I'm Aditya Ramakrishnan!!! 👋
 
-I am a sophomore studying computer science at Michigan State University. Please do check out my [coding portfolio](https://adityaramki.netlify.app/) and fill out the contact form for any collaboration inquiries!
+I am a sophomore studying computer science at Michigan State University. Please do check out my [coding portfolio](https://adityaramki.netlify.app/) (for the best experience view on a computer) and fill out the contact form for any collaboration inquiries!
 
 ## Current Endeavours  💻  
 - Interning at Humana as a Software Engineer Intern in Enterprise AI
