@@ -5,7 +5,7 @@ I am a sophomore studying computer science at Michigan State University. Please 
 ## Current Endeavours  💻  
 - Interning at Humana as a Software Engineer Intern in Enterprise AI
 - Optimizing my portfolio website for different screens
-- Working on building a MSU exclusive reselling platform (Spartan Swap)
+- Working on a team to build an MSU exclusive reselling platform (Necessities)
 
 
 
