@@ -5,7 +5,7 @@ I am a computer science student at Michigan State University graduating in May 2
 ## Current Endeavours  💻  
 - Interning at Humana as a Software Engineer Intern in Enterprise AI
 - Optimizing my portfolio website for different screens
-- Working on a team to build an MSU exclusive reselling platform (Necessities)
+
 
 
 
