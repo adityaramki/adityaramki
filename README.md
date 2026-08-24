@@ -3,9 +3,8 @@
 I am a computer science student at Michigan State University. Please do check out my [coding portfolio](https://adityaramki.netlify.app/) (for the best experience view on a computer) and fill out the contact form for any collaboration inquiries!
 
 ## Current Endeavours  💻  
-- Just finished up with the Qualcomm x Google LiteRT Hackathon
+- Just finished up my Software Engineering Internship at Capital One
 - Updating my portfolio site
-- Exploring C++ project development
 - Going through the Leetcode Blind 75
 
 
