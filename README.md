@@ -4,6 +4,7 @@ I am a computer science student at Michigan State University. Please do check ou
 
 ## Current Endeavours  💻  
 - Just finished up my Software Engineering Internship at Capital One
+- Getting ready for the fall semester
 - Updating my portfolio site
 - Going through the Leetcode Blind 75
 
